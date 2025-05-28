@@ -1,4 +1,4 @@
-welcome to my blog!
+learning coding!
 ---
 title: Welcome to my blog!
 ---
